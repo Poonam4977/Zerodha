@@ -35,5 +35,10 @@ public class ZerodhaSearchTest {
 		zerodhaSearch.clickOnAddStock();
 		zerodhaSearch.clickOnOrders(driver);
 	}
+	@Test
+	public void gitHub()
+	{
+		
+	}
 
 }
